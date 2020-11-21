@@ -1,0 +1,13 @@
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\bin\Debug\netcoreapp3.1\PatronComposite_CSharp.exe
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\bin\Debug\netcoreapp3.1\PatronComposite_CSharp.deps.json
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\bin\Debug\netcoreapp3.1\PatronComposite_CSharp.runtimeconfig.json
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\bin\Debug\netcoreapp3.1\PatronComposite_CSharp.runtimeconfig.dev.json
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\bin\Debug\netcoreapp3.1\PatronComposite_CSharp.dll
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\bin\Debug\netcoreapp3.1\PatronComposite_CSharp.pdb
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\obj\Debug\netcoreapp3.1\PatronComposite_CSharp.csprojAssemblyReference.cache
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\obj\Debug\netcoreapp3.1\PatronComposite_CSharp.AssemblyInfoInputs.cache
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\obj\Debug\netcoreapp3.1\PatronComposite_CSharp.AssemblyInfo.cs
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\obj\Debug\netcoreapp3.1\PatronComposite_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\obj\Debug\netcoreapp3.1\PatronComposite_CSharp.dll
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\obj\Debug\netcoreapp3.1\PatronComposite_CSharp.pdb
+C:\Users\wqe_5\source\repos\PatronComposite_CSharp\obj\Debug\netcoreapp3.1\PatronComposite_CSharp.genruntimeconfig.cache
