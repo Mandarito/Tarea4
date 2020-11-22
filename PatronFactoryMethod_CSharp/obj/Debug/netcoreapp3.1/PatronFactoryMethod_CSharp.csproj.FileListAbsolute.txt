@@ -1,0 +1,13 @@
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\bin\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.exe
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\bin\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.deps.json
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\bin\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.runtimeconfig.json
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\bin\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.runtimeconfig.dev.json
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\bin\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.dll
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\bin\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.pdb
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\obj\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.csprojAssemblyReference.cache
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\obj\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.AssemblyInfoInputs.cache
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\obj\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.AssemblyInfo.cs
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\obj\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\obj\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.dll
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\obj\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.pdb
+C:\Users\wqe_5\source\repos\PatronFactoryMethod_CSharp\obj\Debug\netcoreapp3.1\PatronFactoryMethod_CSharp.genruntimeconfig.cache

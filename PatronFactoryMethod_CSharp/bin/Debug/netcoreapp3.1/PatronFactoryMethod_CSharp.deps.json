@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PatronFactoryMethod_CSharp/1.0.0": {
+        "runtime": {
+          "PatronFactoryMethod_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatronFactoryMethod_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
